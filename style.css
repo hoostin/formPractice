@@ -1,0 +1,7 @@
+form label {
+  display: flex;
+  width: 200%;
+}
+form button {
+  display: flex;
+}
